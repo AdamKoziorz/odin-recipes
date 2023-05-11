@@ -1,0 +1,14 @@
+body {
+    background-color: #ffeecc;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif
+}
+
+h1 {
+    background-color: #ffbb33;
+    font-size: 36px;
+}
+
+.food-img {
+    border: 8px solid #ffbb33;
+    width: 300px;
+}
